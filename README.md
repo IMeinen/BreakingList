@@ -3,7 +3,7 @@
 A aplicação tem como o objetivo carregar uma lista com os personagens de breaking-bad consumindo uma API. O usuário pode interagir com a lista pesquisando o nome de algum personagem através do input de pesquisa. Ao clicar na foto de algum personagem é aberto um modal com mais informações do mesmo.
 
 <h1 align="center" >  
-  <img src="https://https://github.com/IMeinen/BreakingList/blob/master/src/images/breaking_list_example.png" width="600"/>
+  <img src="https://github.com/IMeinen/BreakingList/blob/master/src/images/breaking_list_example.png" width="600"/>
 </h1>
 
 
